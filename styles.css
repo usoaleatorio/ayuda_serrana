@@ -78,3 +78,13 @@ p {
 .donate-button:hover {
     background-color: #1e8833;
 }
+
+/* Estilo para el botón de Abitab */
+.abitab-button {
+    background-color: #0056b3; /* Azul para Abitab */
+    color: white;
+}
+
+.abitab-button:hover {
+    background-color: #004494; /* Azul más oscuro al pasar el ratón */
+}
